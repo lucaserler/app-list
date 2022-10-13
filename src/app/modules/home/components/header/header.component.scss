@@ -1,0 +1,11 @@
+@import "../../../../../dist/scss/variables.scss";
+
+h1 {
+  width: 100%;
+  padding: 10px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 25px;
+  color: $tertiary-text-color;
+  background-color: $tertiary-background-color;
+}

@@ -1,0 +1,22 @@
+$primary-colror: #f5c3b0;
+$secondary-color: #939cbd8a;
+$tertiary-color: #08172c;
+$quaternary-color: #1b1322;
+$quinary-color: #00a529;
+
+$primary-background-color: #1b1322;
+$secondary-background-color: $tertiary-color;
+$tertiary-background-color: $primary-colror;
+$quaternary-background-color: $quinary-color;
+
+$primary-text-color: $secondary-color;
+$secondary-text-color: $tertiary-color;
+$tertiary-text-color: $quaternary-color;
+$quaternary-text-color: $primary-colror;
+
+$danger-color: #fd133e;
+
+$gradient-colors: #00f47a, #00f483, #00caf4, #00b5f4, #ac00f4, #c000ff, #7200f4,
+  #6700bf, #de00ff, #ff00f9, #ff00d7, #ff0097, #ff0056, #ff002c, #ff0000,
+  #ff2200, #ff4800, #ff5900, #ff7300, #ff8d00, #ffb800, #ffda00, #fffc00,
+  #f1ff00, #c6ff00, #9fff00;
